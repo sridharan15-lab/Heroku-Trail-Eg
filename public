@@ -7,7 +7,7 @@
 ‘<body>
 <div class="vh-100 w-100 flex justify-center">
 <div class="flex flex-colunn items-center justify-center">
-<h2 class="fwa blue">Panorama Trail!</h2>
+<h2 class="fwa green">Panorama Trail!</h2>
 <p class="silver maQ">Running with Heroku Flow</p>
 <div class="pts">
 <span id="env" class="white pv1 ph2 br-pill bg-Light-blue"></span>
