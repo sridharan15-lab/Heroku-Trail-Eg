@@ -1,0 +1,23 @@
+<!DOCTYPE htal>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudf are. com/ajax/Libs/tachyons/4.7.0/tachyons.css">
+<title>Dreanforce 2018 is the best</title>
+</head>
+‘<body>
+<div class="vh-100 w-100 flex justify-center">
+<div class="flex flex-colunn items-center justify-center">
+<h2 class="fwa blue">Panorama Trail!</h2>
+<p class="silver maQ">Running with Heroku Flow</p>
+<div class="pts">
+<span id="env" class="white pv1 ph2 br-pill bg-Light-blue"></span>
+</div>
+</div>
+</div>
+<script>
+var env = “cts env %";
+document .getElementById("env").innerHTML = env;
+</script>
+</body>
+
+</html>
